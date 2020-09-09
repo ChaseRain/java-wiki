@@ -13,5 +13,5 @@
   
 * 未归档
   * [confluence](./docs/e-1docker%20部署Confluence.md)
-  * [Docsify](./e-3Docsify搭建GitHub.md)  
+  * [Docsify](./docs/e-3Docsify搭建GitHub.md)  
 
