@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44e4d8b-c18a-4571-8686-1b984fdf9d74" name="Default Changelist" comment="" />
+    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/a-1备战面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-3github建站引导.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/b-2Java集合.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/d-1git.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-2Git实操指引.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-2Git指引手册.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -24,8 +30,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1h85zv86eusZPTntigerCpEzC42" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1hFz5dHcXgza84ek9jFyA6rqP2Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -70,13 +75,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c44e4d8b-c18a-4571-8686-1b984fdf9d74" name="Default Changelist" comment="" />
-      <created>1599380144757</created>
+      <changelist id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="" />
+      <created>1599621445480</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599380144757</updated>
-      <workItem from="1599380146301" duration="3000" />
-      <workItem from="1599620494411" duration="475000" />
+      <updated>1599621445480</updated>
+      <workItem from="1599621449025" duration="269000" />
     </task>
     <servers />
   </component>
