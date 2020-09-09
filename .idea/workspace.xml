@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/a-1备战面试.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-3github建站引导.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/b-2Java集合.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/d-1git.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/e-2Git实操指引.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-2Git指引手册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599621445480</updated>
-      <workItem from="1599621449025" duration="269000" />
+      <workItem from="1599621449025" duration="533000" />
     </task>
     <servers />
   </component>

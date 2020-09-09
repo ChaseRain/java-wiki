@@ -8,7 +8,7 @@
   * [计算机网络](./docs/c-1计算机网络.md)
   
 * 必会工具
-  * [Git](docs/d-1Git日常使用清单.md)
+  * [Git日常使用清单](docs/d-1Git日常使用清单.md)
   * [Git实操指引](docs/e-2Git指引手册.md)  
   
 * 未归档
