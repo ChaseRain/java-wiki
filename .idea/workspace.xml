@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/z-3Docsify搭建GitHub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/a-1Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/a-1Other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-1docker 部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/z-1docker 部署Confluence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/z-2Mac源码安装vim .md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -84,7 +87,8 @@
       <updated>1599621445480</updated>
       <workItem from="1599621449025" duration="2103000" />
       <workItem from="1599880055080" duration="932000" />
-      <workItem from="1599881295935" duration="353000" />
+      <workItem from="1599881295935" duration="1364000" />
+      <workItem from="1599883678741" duration="1207000" />
     </task>
     <servers />
   </component>
@@ -96,5 +100,13 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="477" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1599880859806" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1599885829300">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1599885829300" />
+    <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1599883233465">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599883233465" />
   </component>
 </project>

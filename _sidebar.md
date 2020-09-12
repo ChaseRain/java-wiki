@@ -11,7 +11,7 @@
   * [Git实操指引](docs/e-2Git指引手册.md)  
   
 * 归档
-  * [其他](./docs/a-1Other.md)
+  * [其他](docs/z-zOther.md)
 
 
 
