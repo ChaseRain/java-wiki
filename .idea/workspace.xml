@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/a-1Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/a-1Other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599621445480</updated>
       <workItem from="1599621449025" duration="2103000" />
-      <workItem from="1599880055080" duration="769000" />
+      <workItem from="1599880055080" duration="932000" />
+      <workItem from="1599881295935" duration="353000" />
     </task>
     <servers />
   </component>
