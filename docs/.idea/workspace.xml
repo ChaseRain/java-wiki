@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44e4d8b-c18a-4571-8686-1b984fdf9d74" name="Default Changelist" comment="" />
+    <list default="true" id="c44e4d8b-c18a-4571-8686-1b984fdf9d74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/b-3Java多线程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b-4jvm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-1计算机网络.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-2数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-3算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-4操作系统.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d-1Git日常使用清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/d-1Git日常使用清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-2Git指引手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/e-2Git指引手册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to-use-docsify.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-zOther.md" beforeDir="false" afterPath="$PROJECT_DIR$/z-zOther.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +88,7 @@
       <updated>1599380144757</updated>
       <workItem from="1599380146301" duration="3000" />
       <workItem from="1599620494411" duration="475000" />
+      <workItem from="1599901311471" duration="480000" />
     </task>
     <servers />
   </component>

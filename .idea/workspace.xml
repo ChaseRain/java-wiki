@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/z-3Docsify搭建GitHub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/a-1Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/a-1Other.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/e-1docker 部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/z-1docker 部署Confluence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/e-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/z-2Mac源码安装vim .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tools/git/Git.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tools/vim/Vim.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/b-1面试题总结-Java基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/b-3Java多线程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/b-4jvm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/c-1计算机网络.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/c-2数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/c-3算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/c-4操作系统.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git日常使用清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-2Git指引手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git指引手册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/e-5VIM速查清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/vim/VIM速查清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/how-to-use-docsify.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/z-1docker 部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Docker部署Confluence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/z-2Mac源码安装vim.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac源码安装vim.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/z-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Docsify搭建GitHub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/z-4-Mac环境变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac环境变量.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/z-zOther.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Archived.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/operating-system/Mac" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,7 +64,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
+      <recent name="$PROJECT_DIR$/docs/tools" />
       <recent name="$PROJECT_DIR$/docs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/tools/vim" />
+      <recent name="$PROJECT_DIR$/docs/tools/git" />
+      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
+      <recent name="$PROJECT_DIR$/docs/Archived" />
+      <recent name="$PROJECT_DIR$/docs/tools" />
     </key>
   </component>
   <component name="RunManager">
@@ -88,7 +114,8 @@
       <workItem from="1599621449025" duration="2103000" />
       <workItem from="1599880055080" duration="932000" />
       <workItem from="1599881295935" duration="1364000" />
-      <workItem from="1599883678741" duration="1207000" />
+      <workItem from="1599883678741" duration="2687000" />
+      <workItem from="1599901986906" duration="1949000" />
     </task>
     <servers />
   </component>
@@ -100,10 +127,18 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="477" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1599880859806" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1599899462437">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1599899462437" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1599885829300">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1599885829300" />
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599899427400">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599899427400" />
     <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1599883233465">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
