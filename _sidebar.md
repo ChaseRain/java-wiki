@@ -1,6 +1,6 @@
 
 * 操作系统
-  * [MAC](docs/operating-system/mac/mac.md)
+  * [MAC](docs/operating-system/mac/Mac.md)
  
 * 必会工具
   * [Git](docs/tools/git/Git.md)
