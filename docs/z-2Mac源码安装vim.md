@@ -1,7 +1,17 @@
 
 ## 核心点
 
-#### 
+#### 切换为macvim
+```shell
+# Target /usr/local/bin/vim  already exists. You may want to remove it:
+$ rm '/usr/local/bin/vim'
+
+# To force the link and overwrite all conflicting files:
+$ brew link --overwrite macvim
+
+# To list all files that would be deleted:
+$ brew link --overwrite --dry-run macvim
+```
 
 #### 我的mac默认安装
 
