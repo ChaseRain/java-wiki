@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tools/git/Git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tools/vim/Vim.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/b-1面试题总结-Java基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/b-3Java多线程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/b-4jvm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/c-1计算机网络.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/c-2数据结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/c-3算法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/c-4操作系统.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/d-1Git日常使用清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git日常使用清单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/e-2Git指引手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git指引手册.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/e-5VIM速查清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/vim/VIM速查清单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/how-to-use-docsify.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/z-1docker 部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Docker部署Confluence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/z-2Mac源码安装vim.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac源码安装vim.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/z-3Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Docsify搭建GitHub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/z-4-Mac环境变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac环境变量.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/z-zOther.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/Archived.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +97,7 @@
       <workItem from="1599880055080" duration="932000" />
       <workItem from="1599881295935" duration="1364000" />
       <workItem from="1599883678741" duration="2687000" />
-      <workItem from="1599901986906" duration="1949000" />
+      <workItem from="1599901986906" duration="2176000" />
     </task>
     <servers />
   </component>
