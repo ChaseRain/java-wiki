@@ -11,4 +11,4 @@
 
 [Docker部署Confluence](./docs/e-1docker%20部署Confluence.md)
 
-[Docsify搭建GitHub](https://github.com/Snailclimb/docsify-demo/blob/master/docs/how-to-use-docsify.md)  
+[Docsify搭建GitHub](./docs/e-3Docsify搭建GitHub.md) 
