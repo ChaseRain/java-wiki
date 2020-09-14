@@ -461,11 +461,23 @@ $ git pull origin maste
 $ git push origin master
 ```
 
+## 版本回退
 
+```shell
+# 查看提交记录
+$ git log
 
-
-
-
+# 方法1
+$ git reset --hard dbf5efdb3cd8ea5d576f2e29fe0db1951d0e3e3b
+# 强制推送到远程分支, 会抹去远程库的提交信息(不建议)
+# git push -f origin master
+ 
+# 方法2
+# 回退到指定版本, 需要解决冲突
+$ git revert e7c8599d29b61579ef31789309b4e691d6d3a83f
+# 放弃回退(加--hard会重置已 commit和工作区 的内容)
+$ git reset --hard origin/master 
+```
 
 
 
