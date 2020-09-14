@@ -13,7 +13,8 @@ $ git clone ...
 - 假如开发新功能a，在master分支创建新功能分支a
 
   ```shell
-  $ git checkout master $ git checkout -b feature/a
+  $ git checkout master 
+  $ git checkout -b feature/a
   ```
 
   
