@@ -479,7 +479,23 @@ $ git revert e7c8599d29b61579ef31789309b4e691d6d3a83f
 $ git reset --hard origin/master 
 ```
 
+## 解决冲突
 
+```shell
+# 查看冲突状态
+$ git status
+
+# 修改冲突文集
+$ vim readme.txt
+
+# 提交冲突文件
+$ git add readme.txt 
+$ git commit -m "conflict fixed"
+
+# 带参数的查看分支合并情况
+git log --graph --pretty=oneline --abbrev-commit
+
+```
 
 
 
