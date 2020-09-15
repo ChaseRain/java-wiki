@@ -1,6 +1,7 @@
 
 * 操作系统
-  * [MAC](docs/operating-system/mac/Mac.md)
+  * [Mac](docs/operating-system/mac/Mac.md)
+  * [Linux](docs/operating-system/linux/Linux.md)
   
 * 数据库
   * [MySql](docs/database/mysql/Mysql.md)
