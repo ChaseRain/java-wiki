@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/mysql/Mysql日常.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/database/mysql/Mysql日常.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1599883678741" duration="2687000" />
       <workItem from="1599901986906" duration="3379000" />
       <workItem from="1599926896260" duration="1330000" />
-      <workItem from="1600138474466" duration="455000" />
+      <workItem from="1600138474466" duration="836000" />
     </task>
     <servers />
   </component>
