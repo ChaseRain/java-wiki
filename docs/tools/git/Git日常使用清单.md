@@ -498,6 +498,23 @@ git log --graph --pretty=oneline --abbrev-commit
 ```
 
 
+## 储藏功能
+
+```shell
+# 命名并储藏到缓存堆栈中
+$ git stash save "test-cmd-stash"
+
+# 查看储藏列表
+$ git stash list
+
+# 重新应用缓存堆栈中（不删除stash拷贝），指定哪个stash
+$ git stash apply 6
+
+# 移除stash，可指定stash
+$ git stash drop 6
+
+```
+
 
 
 
