@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archived/Archived.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Archived.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archived/Docker部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docker部署Confluence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archived/Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docsify搭建GitHub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/mysql/Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/database/mysql/Mysql.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/linux/Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/linux/Linux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/git/Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/vim/Vim.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/vim/Vim.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +51,17 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/tools/vim" />
-      <recent name="$PROJECT_DIR$/docs/tools/git" />
-      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
-      <recent name="$PROJECT_DIR$/docs/Archived" />
-      <recent name="$PROJECT_DIR$/docs/tools" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
       <recent name="$PROJECT_DIR$/docs/tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/archived/archived" />
+      <recent name="$PROJECT_DIR$/docs/tools/vim" />
+      <recent name="$PROJECT_DIR$/docs/tools/git" />
+      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
+      <recent name="$PROJECT_DIR$/docs/Archived" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,6 +107,7 @@
       <workItem from="1599926896260" duration="1330000" />
       <workItem from="1600138474466" duration="991000" />
       <workItem from="1600175077418" duration="130000" />
+      <workItem from="1600263275442" duration="632000" />
     </task>
     <servers />
   </component>
@@ -107,10 +115,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="589" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600175096418">
+    <state x="589" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600263517710">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="589" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1600175096418" />
+    <state x="589" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1600263517710" />
     <state x="477" y="162" key="CommitChangelistDialog2" timestamp="1599880859806">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -131,9 +139,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599899427400" />
-    <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1599883233465">
+    <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1600263460763">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599883233465" />
+    <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1600263460763" />
   </component>
 </project>
