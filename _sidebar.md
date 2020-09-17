@@ -14,6 +14,6 @@
   * [Vim](docs/tools/vim/Vim.md)
   
 * 归档
-  * [未归档](docs/archived/Archived.md)
+  * [未归档](docs/archived/archived/Archived.md)
 
 

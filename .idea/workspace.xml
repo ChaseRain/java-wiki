@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archived/Archived.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Archived.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archived/Docker部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docker部署Confluence.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archived/Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docsify搭建GitHub.md" afterDir="false" />
@@ -107,7 +108,7 @@
       <workItem from="1599926896260" duration="1330000" />
       <workItem from="1600138474466" duration="991000" />
       <workItem from="1600175077418" duration="130000" />
-      <workItem from="1600263275442" duration="632000" />
+      <workItem from="1600263275442" duration="1750000" />
     </task>
     <servers />
   </component>
