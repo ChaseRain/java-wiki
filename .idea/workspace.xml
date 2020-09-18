@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/Archived.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Archived.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/Docker部署Confluence.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docker部署Confluence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/Docsify搭建GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archived/archived/Docsify搭建GitHub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/database/mysql/Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/database/mysql/Mysql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/operating-system/linux/Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/linux/Linux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/git/Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/git/Git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/vim/Vim.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/vim/Vim.md" afterDir="false" />
-    </list>
+    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/tools" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,6 +99,7 @@
       <workItem from="1600138474466" duration="991000" />
       <workItem from="1600175077418" duration="130000" />
       <workItem from="1600263275442" duration="1750000" />
+      <workItem from="1600310898143" duration="122000" />
     </task>
     <servers />
   </component>
