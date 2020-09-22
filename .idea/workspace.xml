@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="" />
+    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,24 +37,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/database" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
-      <recent name="$PROJECT_DIR$/docs/tools" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/archived/archived" />
       <recent name="$PROJECT_DIR$/docs/tools/vim" />
       <recent name="$PROJECT_DIR$/docs/tools/git" />
       <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
       <recent name="$PROJECT_DIR$/docs/Archived" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/tools" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,6 +102,8 @@
       <workItem from="1600175077418" duration="130000" />
       <workItem from="1600263275442" duration="1750000" />
       <workItem from="1600310898143" duration="122000" />
+      <workItem from="1600395233073" duration="193000" />
+      <workItem from="1600785590141" duration="358000" />
     </task>
     <servers />
   </component>

@@ -8,6 +8,7 @@
   
 * 数据库
   * [MySql](docs/database/mysql/Mysql.md)
+  * [Redis](docs/database/redis/Redis.md)
  
 * 必会工具
   * [Docker](docs/tools/docker/Docker.md)
