@@ -28,6 +28,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1hFz5dHcXgza84ek9jFyA6rqP2Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,24 +40,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/database" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/java/thread" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/database" />
+      <recent name="$PROJECT_DIR$/docs/tools" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/archived/archived" />
       <recent name="$PROJECT_DIR$/docs/tools/vim" />
       <recent name="$PROJECT_DIR$/docs/tools/git" />
       <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
       <recent name="$PROJECT_DIR$/docs/Archived" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/tools" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
     </key>
   </component>
   <component name="RunManager">
@@ -103,7 +107,9 @@
       <workItem from="1600263275442" duration="1750000" />
       <workItem from="1600310898143" duration="122000" />
       <workItem from="1600395233073" duration="193000" />
-      <workItem from="1600785590141" duration="358000" />
+      <workItem from="1600785590141" duration="379000" />
+      <workItem from="1600825640036" duration="316000" />
+      <workItem from="1600873417925" duration="293000" />
     </task>
     <servers />
   </component>
