@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/other/Other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other工具清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/other/Other工具清单.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,8 @@
       <workItem from="1600825640036" duration="316000" />
       <workItem from="1600873417925" duration="321000" />
       <workItem from="1601024486260" duration="226000" />
-      <workItem from="1601255864048" duration="349000" />
+      <workItem from="1601255864048" duration="392000" />
+      <workItem from="1601256376137" duration="432000" />
     </task>
     <servers />
   </component>
