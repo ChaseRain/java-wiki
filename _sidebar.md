@@ -15,6 +15,7 @@
   * [Docker](docs/tools/docker/Docker.md)
   * [Git](docs/tools/git/Git.md)
   * [Vim](docs/tools/vim/Vim.md)
+  * [Other](docs/tools/other/Other.md)
   
 * 归档
   * [未归档](docs/archived/archived/Archived.md)
