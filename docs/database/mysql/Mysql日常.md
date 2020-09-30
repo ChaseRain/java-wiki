@@ -38,4 +38,7 @@ ALTER TABLE auto200458_tasklog ADD shopId bigint(11) DEFAULT NULL COMMENT '汽�
 
 -- 添加唯一索引
 alter table act_bb_user_statistics add unique key (`user_id`) ;
+
+-- 添加普通索引
+ALTER TABLE act_seckill_shop_user_product ADD INDEX idx_userid_sessionId ( `user_id`, `session_id`);
 ```
