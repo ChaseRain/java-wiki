@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/other/Other.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other工具清单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tools/other/Other工具清单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jdk/jdk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/java/jdk/jdk特性.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +42,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/tools" />
-      <recent name="$PROJECT_DIR$/docs/java/thread" />
-      <recent name="$PROJECT_DIR$/docs/java" />
-      <recent name="$PROJECT_DIR$/docs/database" />
-      <recent name="$PROJECT_DIR$/docs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/archived/archived" />
       <recent name="$PROJECT_DIR$/docs/tools/vim" />
       <recent name="$PROJECT_DIR$/docs/tools/git" />
       <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
       <recent name="$PROJECT_DIR$/docs/Archived" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/java" />
+      <recent name="$PROJECT_DIR$/docs/tools" />
+      <recent name="$PROJECT_DIR$/docs/java/thread" />
+      <recent name="$PROJECT_DIR$/docs/database" />
+      <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
   <component name="RunManager">
@@ -115,6 +116,8 @@
       <workItem from="1601024486260" duration="226000" />
       <workItem from="1601255864048" duration="392000" />
       <workItem from="1601256376137" duration="661000" />
+      <workItem from="1602163354498" duration="2184000" />
+      <workItem from="1602234032618" duration="1304000" />
     </task>
     <servers />
   </component>
@@ -154,5 +157,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1600263460763" />
+    <state x="273" y="265" key="new project wizard" timestamp="1602167859521">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="265" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1602167859521" />
   </component>
 </project>

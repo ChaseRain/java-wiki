@@ -1,6 +1,6 @@
 
 * Java
-  * [JDK](docs/java/jdk/jdk.md)
+  * [基础](docs/java/basic/basic.md)
   * [多线程](docs/java/thread/thread.md)
 
 * 操作系统
